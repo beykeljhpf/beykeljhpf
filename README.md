@@ -1,13 +1,13 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=System.out.println(%22Hello%20World!%22);&fontSize=24&fontColor=c084fc&animation=fadeIn&fontAlignY=38" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d061a&customColorList=0,15,30&height=200&section=header&text=Data%20&%20AI%20Learner&fontSize=26&fontColor=e879f9&animation=fadeIn&fontAlignY=38" width="100%"/>
 </p>
 
-<h2 align="center">Software Engineering & Code 🚀</h2>
+<h2 align="center">Hey, I'm Beykel 👋</h2>
 
 <p align="center">
-  💻 Estudiante de Ingeniería de Sistemas | Entusiasta del Backend y la Inteligencia Artificial<br>
-  ⚡ Compilando ideas, optimizando algoritmos y construyendo soluciones con propósito.<br>
-  ☕ *Loading caffeine...*
+  💻 Systems Engineering Student | BI & Data Analysis Enthusiast<br>
+  ⚡ Exploring the world of Artificial Intelligence and data-driven solutions.<br>
+  🎯 Continuous learner, building knowledge step by step.
 </p>
 
 <p align="center">
@@ -18,14 +18,12 @@
 
 ---
 
-### 🛠️ Tech Stack & Core Tools
+### 🛠️ Tech Stack & Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
@@ -34,5 +32,5 @@
 ### 📊 Git Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=beykeljhpf&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=c084fc" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=beykeljhpf&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e879f9&icon_color=e879f9" alt="Estadísticas de GitHub" />
 </p>
