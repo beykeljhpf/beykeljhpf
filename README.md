@@ -15,5 +15,5 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=beykeljhpf&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e879f9&icon_color=e879f9" alt="Stats" />
+  //////////
 </p>
